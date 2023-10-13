@@ -1,6 +1,8 @@
 # pure-simulink-initialization-and-scheduling
 Examples showing how to schedule the sequential execution of different subsystems
 
+[![View pure-simulink-initialization-and-scheduling on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/54806-pure-simulink-initialization-and-scheduling)
+
 SIMULINK&reg; INITIALIZATION AND SEQUENTIAL BLOCK EXECUTION EXAMPLES:
 ----------------------------------------------------------------
 
