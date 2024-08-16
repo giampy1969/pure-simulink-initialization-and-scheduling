@@ -42,11 +42,11 @@ security.md             Security statement.
 OTHER APPROACHES DESCRIBED IN THE DOCUMENTATION:
 ------------------------------------------------
 
-This is a general starting point:
+This is a general starting point based on Stateflow&reg;:
 
-http://www.mathworks.com/help/stateflow/ug/scheduling-execution-of-simulink-subsystems.html
+https://www.mathworks.com/help/stateflow/ug/scheduling-subsystems-in-stateflow.html
 
-this is an alternating executing subsystem example:
+this is an alternating executing subsystem example based in Simulink:
 
 http://www.mathworks.com/help/simulink/ug/triggered-and-enabled-subsystems.html#f4-84472
 
